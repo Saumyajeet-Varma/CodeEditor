@@ -2,7 +2,7 @@
 A basic and responsive code editor that has separate panels for HTML, CSS and Javascript. It provides real-time preview of your code, allowing you to see changes instantly.
 
 # Demo
-**Link to SVscript -** <a href="">SVscript</a> 
+**Link to SVscript -** <a href="https://saumyajeet-varma.github.io/CodeEditor/">SVscript</a> 
 
 # Features
 **01 - Dedicated Code Panels :** Separate panels for HTML, CSS, and JavaScript, ensuring a clean and organized workspace. <br>
