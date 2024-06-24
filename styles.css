@@ -87,15 +87,16 @@ textarea {
     justify-content: center;
     align-items: center;
     background: white;
-    /* background: #414248; */
     border: 5px solid #06851b;
-    min-width: 350px
+    min-width: 300px;
 }
 
 iframe {
     height: 100%;
     width: 100%;
     outline: none;
+    background: white;
+    border: 5px solid #06851b;
 }
 
 /* ---------- Footer ---------- */
