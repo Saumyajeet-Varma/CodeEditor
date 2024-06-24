@@ -89,13 +89,13 @@ textarea {
     background: white;
     /* background: #414248; */
     border: 5px solid #06851b;
+    min-width: 350px
 }
 
 iframe {
     height: 100%;
     width: 100%;
     outline: none;
-    min-width: 350px;
 }
 
 /* ---------- Footer ---------- */
