@@ -21,12 +21,12 @@ A basic and responsive code editor that has separate panels for HTML, CSS and Ja
 2. Navigate to the project directory.
 3. Open the `index.html` file in your web browser to use SVscript.
 
-# To contribute to the project:
+# To contribute to the project
 1. `Fork` or `clone` the repository.
 2. Create a new branch `git checkout -b feature-branch`
 3. Make your changes and commit them `git commit -m "Add some feature"`
 4. Push to the branch `git push origin feature-branch`
 5. Open a pull request. [ P.S: Resolve all the merge conflicts before making a PR ]
 
-# Project Maintainer:
+# Project Maintainer
 **GitHub**: <a href="https://github.com/Saumyajeet-Varma" style="text-decoration: none">`Saumyajeet Varma`</a>
